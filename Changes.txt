@@ -1,0 +1,26 @@
+font-family: 'Open Sans', sans-serif;
+ <!--<div class="dropdown-menu dropdown-menu-lg" id="support_submenu"> -->Support incase implemented
+
+                                <div class="col-auto px-0" data-dropdown-content>
+                                    <div class="list-group list-group-flush">
+                                        <a href="https://github.com/SHivarpan/final_proj" 
+                                           target="_blank" class="list-group-item list-group-item-action d-flex align-items-center p-0 py-3 px-lg-4">
+                                            <span class="icon icon-sm icon-secondary"><span class="fas fa-file-alt"></span></span>
+                                            <div class="ml-4">
+                                                <span class="text-dark d-block">Documentation</span>
+                                                <span class="small">Learn how to build the app</span>
+                                            </div>
+                                        </a>
+                                        <a href="https://hps.us/support" target="_blank" class="list-group-item list-group-item-action d-flex align-items-center p-0 py-3 px-lg-4">
+                                            <span class="icon icon-sm icon-primary"><span class="fas fa-microphone-alt"></span></span>
+                                            <div class="ml-4">
+                                                <span class="text-dark d-block">Support</span>
+                                                <span class="small">
+                                                    support [ @ ] appseed.us
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>-->
